@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="in/tudor-farcas-491037193">
+  <a href="https://www.linkedin.com/in/tudor-farcas-491037193/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.instagram.com/_tudorfarcas_/">
@@ -29,4 +29,4 @@ I am a second year student <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 👨‍🎓: As a Software Engineer Student, I want to pursue this carrier and to improve my skills in both backend and frontend development.
 - 🏋️‍♂️: Even though I spend my time in front of the screen, I make sure to remember to attend my gym sessions.
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("in/tudor-farcas-491037193") 
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/tudor-farcas-491037193/") 
