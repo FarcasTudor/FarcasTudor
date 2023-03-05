@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/_tudorfarcas_/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://img.shields.io/badge/Twitter-9cf?logo=twitter&logoColor=white&style=for-the-badge">
+  <a href="https://twitter.com/TudorFarcas3">
     <img src="https://img.shields.io/badge/Twitter-9cf?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
