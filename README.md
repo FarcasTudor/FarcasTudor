@@ -18,3 +18,15 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300px"/>
+</div>
+  
+---
+### 💻 About Me :
+I am a second year student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> in the field of Computer Science, at Babeș-Bolyai University.
+
+- 👨‍🎓: As a Software Engineer Student, I want to pursue this carrier and to improve my skills in both backend and frontend development.
+- 🏋️‍♂️: Even though I spend my time in front of the screen, I make sure to remember to attend my gym sessions.
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("in/tudor-farcas-491037193") 
