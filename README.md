@@ -30,3 +30,10 @@ I am a second year student <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 👨‍🎓: As a Software Engineer Student, I want to pursue this career and to improve my skills in both backend and frontend development.
 - 🏋️‍♂️: Even though I spend some time in front of the screen, I don't overlook to attend my gym sessions.
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tudor-farcas-491037193/) 
+
+---
+#  GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarcasTudor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
+<img src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg">
