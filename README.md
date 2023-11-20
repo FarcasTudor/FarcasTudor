@@ -36,4 +36,3 @@ I am a second year student <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarcasTudor&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
-<img src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg">
