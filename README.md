@@ -25,7 +25,7 @@
   
 ---
 ### 💻 About Me :
-I am a second year student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> in the field of Computer Science, at Babeș-Bolyai University.
+I am a third year student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> in the field of Computer Science, at Babeș-Bolyai University.
 
 - 👨‍🎓: As a Software Engineer Student, I want to pursue this career and to improve my skills in both backend and frontend development.
 - 🏋️‍♂️: Even though I spend some time in front of the screen, I don't overlook to attend my gym sessions.
